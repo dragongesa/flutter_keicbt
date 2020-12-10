@@ -15,7 +15,9 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # ScreenShots
-![Alt text](/screenshots/1.jpg?raw=true "SplashScreen")
 <div align="center">
-    <img src="/screenshots/1.jpg" width="400px"</img> 
+    <img src="/screenshots/1.jpg" height="600px"</img> 
+    <img src="/screenshots/2.jpg" height="600px"</img> 
+    <img src="/screenshots/3.jpg" height="600px"</img> 
+    <img src="/screenshots/4.jpg" height="600px"</img> 
 </div>
